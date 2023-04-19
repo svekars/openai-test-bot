@@ -8,7 +8,6 @@ how easy it is to use OpenAI API. This example is inspired by the [OpenAI docume
 
 * A GitHub Account
 * An Open AI token (can be obtained in your Open AI Account Settings)
-* 
 
 # How to use
 
