@@ -4,6 +4,8 @@ This is a very basic Python bot that uses OpenAI API to query the PyTorch websit
 You can modify the script to query any other website. This is a very simple example just to get a taste of
 how easy it is to use OpenAI API. This example is inspired by the [OpenAI documentation](https://platform.openai.com/docs/quickstart). 
 
+https://user-images.githubusercontent.com/5317992/233195802-79ba44e8-4d5d-4ffe-b9e8-690ce7d0d79c.mov
+
 # Prerequisites
 
 * A GitHub Account
