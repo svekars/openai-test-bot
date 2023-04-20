@@ -62,6 +62,7 @@ https://user-images.githubusercontent.com/5317992/233195802-79ba44e8-4d5d-4ffe-b
    ```
    
 8. Type your question and receive an answer. For example: How to install PyTorch?
+9. To terminate the bot, type ``exit``.
 
 # Troubleshooting
 
