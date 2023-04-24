@@ -36,7 +36,13 @@ https://user-images.githubusercontent.com/5317992/233195802-79ba44e8-4d5d-4ffe-b
    cd path-to-your-fork
    ```
 
-6. Open the script file for editing, for example using `vim`:
+6. Install dependencies: 
+
+   ```
+   pip3 install -r requirements.txt
+   ```
+   
+8. Open the script file for editing, for example using `vim`:
 
    ```
    vi qa-bot-test.py
