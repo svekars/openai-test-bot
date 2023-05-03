@@ -6,6 +6,9 @@ how easy it is to use OpenAI API. This example is inspired by the [OpenAI docume
 
 https://user-images.githubusercontent.com/5317992/233195802-79ba44e8-4d5d-4ffe-b9e8-690ce7d0d79c.mov
 
+NOTE: You can run this bot in [this](https://colab.research.google.com/drive/1PWDM2N1xpgtwpqEzwGXWm7O4NrAKhnY-) Google Colab. Clone the Colab to
+your own Google Drive to avoid leaking your token.
+
 # Prerequisites
 
 * A GitHub Account
